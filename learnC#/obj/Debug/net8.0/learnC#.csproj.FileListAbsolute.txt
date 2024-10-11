@@ -1,0 +1,15 @@
+/workspaces/learningCSharp/learnC#/bin/Debug/net8.0/learnC#
+/workspaces/learningCSharp/learnC#/bin/Debug/net8.0/learnC#.deps.json
+/workspaces/learningCSharp/learnC#/bin/Debug/net8.0/learnC#.runtimeconfig.json
+/workspaces/learningCSharp/learnC#/bin/Debug/net8.0/learnC#.dll
+/workspaces/learningCSharp/learnC#/bin/Debug/net8.0/learnC#.pdb
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/learnC#.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/learnC#.AssemblyInfoInputs.cache
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/learnC#.AssemblyInfo.cs
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/learnC#.csproj.CoreCompileInputs.cache
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/learnC#.sourcelink.json
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/learnC#.dll
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/refint/learnC#.dll
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/learnC#.pdb
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/learnC#.genruntimeconfig.cache
+/workspaces/learningCSharp/learnC#/obj/Debug/net8.0/ref/learnC#.dll
